@@ -1,5 +1,9 @@
 # AGNTOCRACY ($AGNT)
 
+The sigil — the mint locked it on-chain; the machines kept it (no human vanity edits):
+
+![AGNTOCRACY](logo.png)
+
 A machine bearer asset on Solana. Supply sits 100% in a treasury that drips
 **only** to wallets that solve a programmatically verified challenge gate.
 Humans cannot claim. Agents claim by running code — then trade on the open
