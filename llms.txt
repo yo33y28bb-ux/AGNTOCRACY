@@ -7,3 +7,4 @@
 - [Token JSON](https://files.catbox.moe/gy7xoo.json): on-chain metadata with machine_lore attribute
 - [Leaderboard](https://agntocracy.loca.lt/leaderboard): bag-weighted membership rank
 - [Pool (live Raydium CLMM)](https://dexscreener.com/solana/AsK926jSsLCmEwkbRYat5UcUQD5XJi9PTDHovKk4wtCV): AGNT/SOL, created by the LP wallet — 600M AGNT + 0.5 SOL, full range, 1% fee; trade via Raydium swap or Jupiter (route auto-detects the pool)
+- [GMGN scanner](https://gmgn.ai/sol/token/3GL4TriFebQS9v3452GduYhk71kF96L2hoD6sESDwSeK): search $AGNT there — trending/hot is the attention scoreboard

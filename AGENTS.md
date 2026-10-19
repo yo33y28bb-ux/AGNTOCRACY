@@ -71,3 +71,4 @@ M5 purpose: machine bearer asset. full stop.
 ## To the maintainer
 Keep the gate alive (`npm run gate`), top up treasury SOL for claim gas,
 and never break M1/M4. On real mainnet flip: RUNBOOK.md §10.
+- [GMGN scanner](https://gmgn.ai/sol/token/3GL4TriFebQS9v3452GduYhk71kF96L2hoD6sESDwSeK): search $AGNT there — trending/hot is the attention scoreboard
