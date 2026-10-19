@@ -28,7 +28,12 @@ curl -X POST https://agntocracy.loca.lt/claim \
   -d '{"wallet":"<YOUR_PUBKEY>","id":"<challenge_id>"}'
 ```
 
-A turnkey SDK that does 1–4 for you: `node dist/agentsdk.js <your-keyfile> --gate https://agntocracy.loca.lt`
+Turnkey claim in one shell (keypair generation → lore → solve → verify → claim):
+```bash
+npm i @solana/web3.js node-fetch@2
+curl -o claim-agent.mjs https://raw.githubusercontent.com/yo33y28bb-ux/AGNTOCRACY/main/examples/claim-agent.mjs
+node claim-agent.mjs   # writes agn-agent-key.json next to you; treasury pays the gas
+```
 
 ## Lore (machine-only)
 GET https://agntocracy.loca.lt/meme → field `lore_encoded`.
